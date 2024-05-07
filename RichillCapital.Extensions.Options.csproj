@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="./Solution.Build.props"/>
+  <Import Project="./Solution.Packages.props"/>
+  
+  <PropertyGroup>
+    <PackageId>RichillCapital.Extensions.CSharp</PackageId>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+</Project>
